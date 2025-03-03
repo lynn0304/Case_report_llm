@@ -53,7 +53,7 @@ et-xmlfile==1.1.0
 etelemetry==0.3.1
 exceptiongroup==1.2.2
 executing==0.8.3
-faiss-cpu==1.10.0
+faiss-cpu==1.9.0
 fastjsonschema==2.15.3
 filelock==3.16.1
 fiona==1.9.6
