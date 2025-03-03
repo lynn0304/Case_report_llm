@@ -1,3 +1,4 @@
+--prefer-binary
 acres==0.3.0
 aiofiles==24.1.0
 aiohappyeyeballs==2.4.6
@@ -230,5 +231,7 @@ Werkzeug==2.2.2
 widgetsnbextension==3.6.0
 xlrd==2.0.1
 yarl==1.18.3
+lxml==4.9.3
+
 zipp==3.9.0
 zstandard==0.23.0
